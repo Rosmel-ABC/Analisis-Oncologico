@@ -1,2 +1,2 @@
-# An-lisis-Oncol-gico
+# Análisis-Oncológico
 Análisis Oncológico en Python
